@@ -1,8 +1,8 @@
 # 🎮 Windows Gaming Time Tracker (PowerShell)
 
 A lightweight PowerShell tool that monitors **session and daily gaming time**, provides **friendly voice alerts**, and visualizes **play history** — all in a simple, always-on GUI.
+The project purpose is for a teen gamer to know how long he is/has being playing.
 
-It was developed with AI for a teen gamer to know how long time he is/has being playing so he can take a break.
 ---
 
 ## 🚀 Features
