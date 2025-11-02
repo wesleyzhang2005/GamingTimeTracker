@@ -50,4 +50,4 @@ Added daily log (%APPDATA%\GamingHistory.csv) and graph visualization using Wind
 ---
 
 **Project Result:**  
-A robust, voice-enabled PowerShell-based Gaming Tracker that measures real gaming engagement time, persists daily stats, provides pleasant reminders, and offers visual insights—all through a simple, always-on GUI window.
+A robust, voice-enabled PowerShell-based Gaming Tracker that measures real gaming time, persists daily stats, provides pleasant reminders, and offers visual insights—all through a simple, always-on GUI window.
