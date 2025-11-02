@@ -1,4 +1,4 @@
-# Windows Gaming Time Tracker — Project Summary (No Tray Mode)
+# Windows Gaming Time Tracker — Project Summary 
 
 ## 1. Core Requirement
 Developed a Windows PowerShell script to track daily gaming time that:
